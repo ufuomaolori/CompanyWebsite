@@ -1,0 +1,65 @@
+
+
+
+h1{
+  text-align: left;
+}
+
+hr{
+  width: 300px;
+  float: left;
+}
+
+h4{
+  line-height: 0;
+}
+
+#top-header, .info-contact{
+  padding: 3% 7%;
+  background-color: #e3e9f5;
+}
+
+.info-contact{
+  padding-left: 3.125rem;
+}
+
+.info-text{
+  font-size: 12px;
+  text-align: left;
+}
+/* Top div */
+.top-div{
+  margin: 7% auto;
+}
+
+.title-text{
+  margin: 5% auto;
+}
+.title-button{
+  margin: 10% auto;
+}
+
+.top-info{
+  padding: 3% 5%;
+}
+
+/* Navigation Bar */
+.navigation-text{
+      color: blue;
+}
+
+.white-btn{
+  background-color: white;
+  color: black;
+}
+.top-contact{
+  display: inline-block;
+  margin-left: 0.625rem;
+}
+
+@media screen and (max-width: 991px)
+{
+    .button-text{
+      text-align: left;
+    }
+}
