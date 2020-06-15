@@ -14,7 +14,7 @@ h4{
   line-height: 0;
 }
 
-#top-header, .info-contact{
+#top-header, .info-contact,#services{
   padding: 3% 7%;
   background-color: #e3e9f5;
 }
@@ -62,4 +62,29 @@ h4{
     .button-text{
       text-align: left;
     }
+}
+.end-header{
+  width: 100%;
+}
+
+/* Sections Page */
+#services{
+margin-top: 0;
+}
+.slide-icon{
+  text-align: right;
+  padding: 0;
+  margin: 0.625rem auto;
+}
+
+.slide-color{
+  color: gray;
+}
+
+.slide-div{
+  margin-bottom: 30px;
+}
+
+.service-icon{
+  width: 200px;
 }
